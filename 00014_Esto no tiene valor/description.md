@@ -3,9 +3,9 @@ Ya que vas entendiendo cómo se **asignan** las variables, te traemos algo para 
 > ¡Averigüémoslo! Tenemos esta función definida:
 > 
 > ``` javascript
-> function sumaSinSentido() {
->  return numero + 8;
-> }
+
+
+
 > ```
 >
 > Probala en la consola y fijate qué sucede.
