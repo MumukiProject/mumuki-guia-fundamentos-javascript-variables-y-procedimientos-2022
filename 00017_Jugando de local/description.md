@@ -21,12 +21,14 @@ pregunta = "¿" + un_string_sin_espacios + "?"
 
 Sin embargo, las variables inicializadas directamente en el programa, conocidas como _variables globales_, pueden ser leídas desde cualquier `def`. Por ejemplo:
 
-```python
-peso_maximo_del_equipaje_en_gramos = 5000
 
-def puede_llevar(peso_equipaje):
-  return peso_equipaje <= peso_maximo_del_equipaje_en_gramos
-````
+```javascript
+let pesoMaximoEquipajeEnGramos = 5000;
+
+function puedeLlevar(pesoEquipaje) {
+  return pesoEquipaje <= pesoMaximoEquipajeEnGramos;
+}
+```
  
 > Como te habrás dado cuenta, nunca nos olvidamos de saludar ¡y ahora no es la excepción!
 
