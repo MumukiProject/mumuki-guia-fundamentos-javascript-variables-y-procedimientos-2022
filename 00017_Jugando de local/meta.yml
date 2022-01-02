@@ -1,11 +1,11 @@
 ---
 locale: es
 tags: []
-layout: input_bottom
-editor: 0
-type: playground
+layout: input_right
+editor: code
+type: problem
 extra_visible: false
 teacher_info: ''
 manual_evaluation: false
 choices: []
-name: Impresión por pantalla
+name: Jugando de local
