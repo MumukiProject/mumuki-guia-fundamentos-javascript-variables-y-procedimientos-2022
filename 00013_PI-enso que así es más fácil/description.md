@@ -3,9 +3,31 @@ Por suerte existe una herramienta que va a simplificar nuestra tarea de ahora en
 Las variables nos permiten nombrar y reutilizar _valores_. Similar a cómo los procedimientos y funciones nos permiten dar nombres y reutilizar soluciones a problemas más pequeños. Por ejemplo, si hacemos...
 
 ``` javascript
-let primerMes = "enero"
+let primerMes
+primerMes = "enero"
 ```
 
-...estamos _asignándole_ el valor `"enero"` a la variable `primerMes`. En criollo, estamos dándole ese valor a la variable. :relieved:
+...estamos primero _declarando_ la variable `primerMes` y luego, _asignándole_ `"enero"`.  En otras, en la promera línea creamos creando una variable y en la segunda, le damos un valor. :relieved: A partir de este momento, en cualquier lugar en donde usemos `primerMes`...
+
+```javascript
+function esAnioNuevo(dia, mes) {
+  return dia === 1 && mes === primerMes; // primerMes vale ahora "enero" 
+}
+```
+
+...JavaScript sabrá que nos estamos refiriendo a `"enero"`:
+
+```javascript
+ム esAnioNuevo(1, "enero")
+true
+```
+
+Como declarar una variable y seguidamente asignarle un valor inicial es tan común, JavaScript nos permite hacer todo esto en un solo paso. Y además, podemos declarar tantas variables como necesitemos, de cualquier tipo de dato: 
+
+```javascript
+let primerMes = "enero"
+let cantidadDiasDeLaSemana = 7;
+```
+
 
 > Cambiá los lugares donde aparece `3.14159265358979` por la variable `pi` en las funciones que tenemos definidas.
