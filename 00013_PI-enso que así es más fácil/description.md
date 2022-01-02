@@ -29,4 +29,4 @@ let primerMes = "enero"; // declaración con asignación de valor inicial
 let cantidadDiasDeLaSemana = 7; 
 ```
 
-> Veamos si se entiende: como ya no queríamos seguir repitiendo por todos lados el valor de pi, :rolling_eyes: hemos declarado una variable `pi`. ¡Pero nos faltó usarla! Cambiá en las funciones que tenemos definidas el valor `3.14159265358979` por la variable `pi` 
+> Veamos si se entiende: como ya no queríamos seguir repitiendo por todos lados el valor de pi :rolling_eyes:, hemos declarado una variable `pi`. ¡Pero nos faltó usarla! Cambiá en las funciones que tenemos definidas el valor `3.14159265358979` por la variable `pi` 
