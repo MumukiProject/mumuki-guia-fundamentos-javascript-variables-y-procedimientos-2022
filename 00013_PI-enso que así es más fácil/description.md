@@ -20,6 +20,8 @@ function esAnioNuevo(dia, mes) {
 ```javascript
 ム esAnioNuevo(1, "enero")
 true
+ム esAnioNuevo(1, "febrero")
+false
 ```
 
 Como declarar una variable y seguidamente asignarle un valor inicial es tan común, JavaScript nos permite hacer todo esto en un solo paso, como parte de la misma declaración. Y además, podemos declarar tantas variables como necesitemos, de cualquier tipo de dato: 
