@@ -3,8 +3,8 @@ Por suerte existe una herramienta que va a simplificar nuestra tarea de ahora en
 Las variables nos permiten nombrar y reutilizar _valores_, de forma similar a cómo los procedimientos y funciones nos permiten dar nombres y reutilizar soluciones a problemas más pequeños. Por ejemplo, si hacemos...
 
 ``` javascript
-let primerMes
-primerMes = "enero"
+let primerMes // declaración
+primerMes = "enero" // asignación
 ```
 
 ...estamos primero _declarando_ la variable `primerMes` y luego, _asignándole_ `"enero"`.  En otras, en la promera línea creamos creando una variable y en la segunda, le damos un valor. :relieved: A partir de este momento, en cualquier lugar en donde usemos `primerMes`...
