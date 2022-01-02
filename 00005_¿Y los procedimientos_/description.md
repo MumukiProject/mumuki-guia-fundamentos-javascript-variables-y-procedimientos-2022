@@ -2,7 +2,7 @@
 
 ```javascript
 function pasarUnDiaNormal() {
-  dias_sin_accidentes_con_velocirraptores = dias_sin_accidentes_con_velocirraptores + 1
+  diasSinAccidentesConVelociraptores = diasSinAccidentesConVelociraptores + 1
 }
 ```
 
