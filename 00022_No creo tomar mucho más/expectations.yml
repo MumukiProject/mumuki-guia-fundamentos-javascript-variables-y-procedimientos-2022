@@ -9,3 +9,6 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
   inspection: DeclaresProcedure:cargarTermo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: cargarTermo
+  inspection: Assigns:aguaDelTermo
