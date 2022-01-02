@@ -11,7 +11,7 @@ primerMes = "enero" // asignación
 
 ```javascript
 function esAnioNuevo(dia, mes) {
-  return dia === 1 && mes === primerMes; // primerMes vale ahora "enero" 
+  return dia === 1 && mes === primerMes;
 }
 ```
 
