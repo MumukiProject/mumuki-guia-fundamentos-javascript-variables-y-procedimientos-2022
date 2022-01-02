@@ -1,10 +1,16 @@
-describe("versos", function() {
-  it("deberia imprimir los versos", function() {
-    versosMartinFierro()
-    assert.equal(fakeConsole.toString(), "Aquí me pongo a cantar\nAl compás de la vigüela;\nQue el hombre que lo desvela\nUna pena extraordinaria\n")
+describe("", function() {
+  it("el aumentarFortuna duplica variable global pesosEnMiBilletera", function () {
+    pesosEnMiBilletera = 100;
+    aumentarFortuna();
+    assert.equal(pesosEnMiBilletera, 200);
   });
-  it("no deberia retornar nada", function() {
-    assert(versosMartinFierro() === undefined);
-  });
-})
 
+  it("el aumentarFortuna se puede llamar múltiples veces", function () {
+    pesosEnMiBilletera = 30;
+    aumentarFortuna();
+    aumentarFortuna();
+    aumentarFortuna();
+    assert.equal(pesosEnMiBilletera, 240);
+  });
+
+})
