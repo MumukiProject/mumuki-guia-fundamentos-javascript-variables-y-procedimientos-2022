@@ -2,7 +2,7 @@ Ya que vas entendiendo cómo se **asignan** las variables, te traemos algo para 
 
 > ¡Averigüémoslo! Tenemos esta función definida:
 > 
-> ``` javascript
+> ```javascript
 > function sumaSinSentido() {
 >   return numero + 8;
 > }
