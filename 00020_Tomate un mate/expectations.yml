@@ -1,0 +1,11 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Assigns:aguaDelTermo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Declares:cebarMate
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: cebarMate
+  inspection: Not:Returns
