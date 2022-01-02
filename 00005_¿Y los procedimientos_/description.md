@@ -8,7 +8,7 @@ function pasarUnDiaNormal() {
 
 ¡No tiene `return`! Pero, ¿las funciones no tienen todas un `return`? :face_with_monocle:
 
-Correcto, es que en realidad `pasar_un_dia_normal()` no es una función, ¡es un _procedimiento_! :open_mouth: 
+Correcto, es que en realidad `pasarUnDiaNormal()` no es una función, ¡es un _procedimiento_! :open_mouth: 
 
 
 A diferencia de Gobstones, en donde funciones y procedimiento usando palabras reservadas diferentes, en JavaScript se usa la misma palabra reservada `function`. De todas formas, se mantienen sus diferencias:
