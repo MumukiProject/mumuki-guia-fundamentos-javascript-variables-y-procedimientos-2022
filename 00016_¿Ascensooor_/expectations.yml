@@ -5,7 +5,7 @@ expectations:
   inspection: DeclaresFunction:ascensorSobrecargado
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: Not:DeclaresComputationWithArity1:ascensorSobrecargado
+  inspection: DeclaresComputationWithArity1:ascensorSobrecargado
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: ascensorSobrecargado
   inspection: Uses:pesoPromedioPersonaEnKilogramos
