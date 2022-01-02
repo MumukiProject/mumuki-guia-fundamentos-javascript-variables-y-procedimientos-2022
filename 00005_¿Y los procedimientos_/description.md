@@ -16,4 +16,7 @@ A diferencia de Gobstones, en donde funciones y procedimiento usando palabras re
 * las funciones **retornan un valor y no tienen efecto**, es decir, no cambian nuestras variables;
 * los procedimientos **no retornan nada y tienen un efecto** al ser invocados. 
 
-> Ahora que sabes la diferencia, definí un procedimiento `aumentar_fortuna` que duplique el valor de la variable global `pesos_en_mi_billetera`. No inicialices la variable, porque ya lo hicimos por vos (con una cantidad secreta de dinero :wink:).
+> ¡Ahora vamos a hacer algo de dinero :moneybag:!
+>
+> Definí el procedimiento `aumentarFortuna` que duplique el valor de la variable global `pesosEnMiBilletera`. No declares la variable, ya lo hicimos por vos (con una cantidad secreta de dinero) :wink:. 
+> 
