@@ -9,5 +9,5 @@ teacher_info: ''
 manual_evaluation: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  kind: last_query_fails
+  kind: last_query_passes
 name: Esto no tiene valor
