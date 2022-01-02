@@ -7,7 +7,7 @@ let primerMes // declaración
 primerMes = "enero" // asignación
 ```
 
-...estamos primero _declarando_ la variable `primerMes` y luego, _asignándole_ `"enero"`.  En otras, en la primera línea creamos una variable y en la segunda, le damos un valor. :relieved: A partir de este momento, en cualquier lugar en donde usemos `primerMes`...
+...estamos primero _declarando_ la variable `primerMes` y luego, _asignándole_ `"enero"`.  Dicho de otra forma, en la primera línea creamos una variable y en la segunda, le damos un valor. :relieved: A partir de este momento, en cualquier lugar en donde usemos `primerMes`...
 
 ```javascript
 function esAnioNuevo(dia, mes) {
