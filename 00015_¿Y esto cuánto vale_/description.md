@@ -1,6 +1,6 @@
 ¡Ya casi estamos! Para cerrar, te dejamos una pregunta más (prometemos que es la última :pray:):
 
-> Mirá esta función...
+> Mirá esta función:
 > 
 > 
 > ``` javascript
