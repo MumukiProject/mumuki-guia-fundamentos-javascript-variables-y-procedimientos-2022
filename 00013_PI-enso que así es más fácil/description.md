@@ -30,4 +30,4 @@ let cantidadDiasDeLaSemana = 7;
 ```
 
 
-> Cambiá los lugares donde aparece `3.14159265358979` por la variable `pi` en las funciones que tenemos definidas.
+> Veamos si se entiende: declará y asigná en un sólo paso la variable `pi`, para que valga `3.14159265358979`. Y luego reemplazá todo uso de este valor por nuestra nueva variable `pi`. 
