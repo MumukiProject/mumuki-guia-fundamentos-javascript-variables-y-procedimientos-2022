@@ -1,1 +1,3 @@
-JavaScript, como la mayoría de los lenguajes _comerciales_ (es decir, lenguajes que se usan para desarrollar software "real"), no es tan puro en su separación de funciones y procedimientos. Veamos por qué...
+Como ya aprendimos cuando programábamos en Gobstones :red_circle:, no siempre vamos a querer retornar información. ¡A veces simplemente queremos cambiar de estado! Pero, ¿tendremos procedimientos en JavaScript? Y si no hay tablero, ¿qué cosas podemos modificar?
+
+En esta lección vamos a conocer a las variables, una herramienta que nos van a pemitir solucionar nuevos tipos problemas y hacer programas más complejos. :sunglasses: En el camino también redescubriremos a los procedimiento y veremos que JavaScript, como la mayoría de los lenguajes _comerciales_ :moneybag: (es decir, lenguajes que se usan para desarrollar software "real"), no es tan purista a la hora de sperarlos de las funciones. :thinking:
