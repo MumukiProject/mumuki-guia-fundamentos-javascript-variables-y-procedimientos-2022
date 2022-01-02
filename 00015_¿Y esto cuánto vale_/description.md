@@ -1,13 +1,15 @@
+¡Ya casi estamos! Para cerrar, te dejamos una pregunta más (prometemos que es la última :pray:):
 
-Vimos que una variable solo puede tener un valor, entonces cada vez que le asignamos uno nuevo, perdemos el anterior. Entonces, dada la función:
-
-``` javascript
-function cuentaExtravagante() {
-  let numero = 8;
-  numero *= 2;
-  numero += 4;
-  return numero;
-}
-```
-
+> Mirá esta función...
+> 
+> 
+> ``` javascript
+> function cuentaExtravagante() {
+>   let numero = 8;
+>   numero *= 2;
+>   numero += 4;
+>   return numero;
+> }
+> ```
+>
 > ¿Qué retorna `cuentaExtravagante`?
