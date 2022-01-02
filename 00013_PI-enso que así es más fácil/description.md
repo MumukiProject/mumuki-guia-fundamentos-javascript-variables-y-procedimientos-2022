@@ -7,7 +7,7 @@ let primerMes // declaración
 primerMes = "enero" // asignación
 ```
 
-...estamos primero _declarando_ la variable `primerMes` y luego, _asignándole_ `"enero"`.  En otras, en la promera línea creamos creando una variable y en la segunda, le damos un valor. :relieved: A partir de este momento, en cualquier lugar en donde usemos `primerMes`...
+...estamos primero _declarando_ la variable `primerMes` y luego, _asignándole_ `"enero"`.  En otras, en la primera línea creamos creando una variable y en la segunda, le damos un valor. :relieved: A partir de este momento, en cualquier lugar en donde usemos `primerMes`...
 
 ```javascript
 function esAnioNuevo(dia, mes) {
@@ -25,7 +25,7 @@ true
 Como declarar una variable y seguidamente asignarle un valor inicial es tan común, JavaScript nos permite hacer todo esto en un solo paso. Y además, podemos declarar tantas variables como necesitemos, de cualquier tipo de dato: 
 
 ```javascript
-let primerMes = "enero"
+let primerMes = "enero"; 
 let cantidadDiasDeLaSemana = 7;
 ```
 
