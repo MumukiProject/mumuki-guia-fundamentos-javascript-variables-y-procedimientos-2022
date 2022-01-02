@@ -1,1 +1,0 @@
-var pesosEnMiBilletera = 0;
