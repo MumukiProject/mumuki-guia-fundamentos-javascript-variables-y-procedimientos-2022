@@ -22,12 +22,11 @@ function esAnioNuevo(dia, mes) {
 true
 ```
 
-Como declarar una variable y seguidamente asignarle un valor inicial es tan común, JavaScript nos permite hacer todo esto en un solo paso. Y además, podemos declarar tantas variables como necesitemos, de cualquier tipo de dato: 
+Como declarar una variable y seguidamente asignarle un valor inicial es tan común, JavaScript nos permite hacer todo esto en un solo paso, como parte de la misma declaración. Y además, podemos declarar tantas variables como necesitemos, de cualquier tipo de dato: 
 
 ```javascript
-let primerMes = "enero"; 
-let cantidadDiasDeLaSemana = 7;
+let primerMes = "enero"; // declaración con asignación de valor inicial 
+let cantidadDiasDeLaSemana = 7; 
 ```
 
-
-> Veamos si se entiende: declará y asigná en un sólo paso la variable `pi`, para que valga `3.14159265358979`. Y luego reemplazá todo uso de este valor por nuestra nueva variable `pi`. 
+> Veamos si se entiende: como ya no queríamos seguir repitiendo por todos lados el valor de pi, hemos declarado una variable `pi`. ¡Pero nos faltó usarla! Cambiá en las funciones que tenemos definidas el valor `3.14159265358979` por la variable `pi` 
