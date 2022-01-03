@@ -2,7 +2,8 @@ Hay veces que no queremos, o simplemente no tiene sentido, que nuestras variable
 
 ```javascript
 function elMasLargoSinEspacios(unString, otroString) {
-  let unStringSinEspacios = unString.trim(); // trim es otra primitiva que quita los espacios de un string
+  // trim es otra primitiva que quita los espacios al inicio y fin de un string
+  let unStringSinEspacios = unString.trim(); 
   let otroStringSinEspacios = otroString.trim();
   
   if (unStringSinEspacios.length > otroStringSinEspacios.length) {
