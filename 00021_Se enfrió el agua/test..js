@@ -1,4 +1,4 @@
-describe("", function() {
+describe("cambiar el agua", function() {
   it("vaciarTermo deja en 0 el aguaDelTermo", () => {    
     aguaDelTermo = 1000;
     vaciarTermo();

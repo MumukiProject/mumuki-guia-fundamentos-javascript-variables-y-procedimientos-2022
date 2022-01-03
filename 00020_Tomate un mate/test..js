@@ -1,4 +1,4 @@
-describe("cebarMate", function() {
+describe("", function() {
   it("cebar mate disminuye en 30 ml el aguaDelTermo", () => {
     aguaDelTermo = 1000;
     cebarMate();
