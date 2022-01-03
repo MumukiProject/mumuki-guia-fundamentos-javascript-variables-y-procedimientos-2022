@@ -1,4 +1,4 @@
-¿Notaste algo distinto en la "función" del ejercicio anterior :mag:? Veámosla nuevamente:
+¿Viste qué raro ese `undefined`? ¿Notaste algo distinto en la "función" del ejercicio anterior :mag:? Veámosla nuevamente:
 
 ```javascript
 function pasarUnDiaNormal() {
@@ -6,9 +6,9 @@ function pasarUnDiaNormal() {
 }
 ```
 
-¡No tiene `return`! Pero, ¿las funciones no tienen todas un `return`? :face_with_monocle:
+¡No tiene `return`! Y por eso no devolvió nada, o mejor dicho, devolvió `undefined`, que significa "no definido" en inglés.
 
-Correcto, es que en realidad `pasarUnDiaNormal()` no es una función, ¡es un _procedimiento_! :open_mouth: 
+Pero, ¿las funciones no tienen todas un `return`? :face_with_monocle: Correcto, pero es que en realidad `pasarUnDiaNormal()` no es una función, ¡es un _procedimiento_! :open_mouth: 
 
 
 A diferencia de Gobstones, en donde funciones y procedimiento usando palabras reservadas diferentes, en JavaScript se usa la misma palabra reservada `function`. De todas formas, se mantienen sus diferencias:
