@@ -12,3 +12,6 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: cargarTermo
   inspection: Assigns:aguaDelTermo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: DeclaresComputationWithArity1:cargarTermo
