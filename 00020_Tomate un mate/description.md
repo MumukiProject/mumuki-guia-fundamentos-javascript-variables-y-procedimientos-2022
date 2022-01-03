@@ -12,6 +12,6 @@ x -= y // equivalente a x = x - y
 > 
 > Sabiendo que al cebar un mate la cantidad de agua del termo disminuye:
 >
->  * inicializá una variable global `aguaDelTermo` (que representa los mililitros que tiene el termo) con 1000; 
+>  * declará e inicializá una variable global `aguaDelTermo` (que representa los mililitros que tiene el termo) con 1000; 
 >  * definí el procedimiento `cebarMate` que disminuye 30 mililitros del agua en el termo.
 > 
