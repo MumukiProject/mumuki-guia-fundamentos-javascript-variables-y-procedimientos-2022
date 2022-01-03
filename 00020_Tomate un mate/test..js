@@ -1,8 +1,8 @@
-describe("Group description", function() {
-  it("cebarMate disminuye en 30 ml el aguaDelTermo", () => {
+describe("cebarMate", function() {
+  it("cebar mate disminuye en 30 ml el aguaDelTermo", () => {
     aguaDelTermo = 1000;
     cebarMate();
-    assert.equals(aguaDelTermo, 970);    
+    assert.equal(aguaDelTermo, 970);    
   });
 
 
@@ -11,6 +11,6 @@ describe("Group description", function() {
     cebarMate();
     cebarMate();
     cebarMate();
-    assert.equals(aguaDelTermo, 910);    
+    assert.equal(aguaDelTermo, 910);    
   });
 })
