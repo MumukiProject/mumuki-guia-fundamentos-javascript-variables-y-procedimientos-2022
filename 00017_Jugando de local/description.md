@@ -1,14 +1,16 @@
 Hay veces que no queremos, o simplemente no tiene sentido, que nuestras variables sean referenciadas por todas las funciones. Por suerte, podemos declarar variables tanto directamente en el programa, como dentro de una función:
 
 ```javascript
-function el_mas_largo_sin_espacios(un_string, otro_string) {
-  let un_string_sin_espacios = str.strip(un_string)
-  let otro_string_sin_espacios = str.strip(otro_string)
+function elMasLargoSinEspacios(unString, otroString) {
+  let unStringSinEspacios = unString.trim();
+  let otroStringSinEspacios = otroString.trim();
   
-  if(len(un_string_sin_espacios) > len(otro_string_sin_espacios)):
-    return un_string_sin_espacios
-  else:
-    return otro_string_sin_espacios
+  if (unStringSinEspacios.length > otroStringSinEspacios.length) {
+    return unStringSinEspacios;
+  }
+  else {
+    return otroStringSinEspacios;
+  }
 }
 ```
 
