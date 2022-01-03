@@ -6,3 +6,9 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
   inspection: DeclaresProcedure:llenarTermo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: vaciarTermo
+  inspection: Assigns:aguaDelTermo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: llenarTermo
+  inspection: Assigns:aguaDelTermo
