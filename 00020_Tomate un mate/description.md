@@ -1,5 +1,17 @@
-Con todo lo que aprendimos hasta acá estaría bueno cortar para tomar unos mates, ¿no? :mate: Mejor aún, ¡programemos los mates! :sweat:
+Cuando trabajamos con variables, actualizaciones como duplicar, triplicar, incrementar en uno o en una cierta cantidad son tan comunes que JavaScript presenta algunos atajos:
 
-Sabiendo que al cebar un mate la cantidad de agua del termo disminuye...
+```javascript
+x += y // equivalente a x = x + y
+x *= y // equivalente a x = x * y
+x -= y // equivalente a x = x - y
+```
 
-> ...inicializá la variable global `aguaDelTermo` (que representa los mililitros que tiene el termo) con 1000. También definí el procedimiento `cebarMate` que disminuye 30 mililitros del agua en el termo.
+¡Usalos cuando quieras! :wink:
+
+> Hagamos una pausa de tanta información para unos mates :mate:. O mejor aún, ¡programemos los mates! :sweat:
+> 
+> Sabiendo que al cebar un mate la cantidad de agua del termo disminuye:
+>
+>  * inicializá una variable global `aguaDelTermo` (que representa los mililitros que tiene el termo) con 1000; 
+>  * definí el procedimiento `cebarMate` que disminuye 30 mililitros del agua en el termo.
+> 
