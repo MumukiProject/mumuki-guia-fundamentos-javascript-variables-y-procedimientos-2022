@@ -1,0 +1,1 @@
+Ojo, `estaTermoLleno` es una función y no debe actualizar el `aguaDelTermo`.
