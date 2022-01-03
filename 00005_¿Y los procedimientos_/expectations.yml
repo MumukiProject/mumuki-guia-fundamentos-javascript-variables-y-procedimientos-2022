@@ -2,7 +2,7 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: Declares:aumentarForturna
+  inspection: Declares:aumentarFortuna
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: aumentarFortuna
   inspection: Not:Returns
