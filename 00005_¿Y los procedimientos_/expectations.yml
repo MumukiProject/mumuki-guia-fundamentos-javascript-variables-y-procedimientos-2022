@@ -9,3 +9,6 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: aumentarFortuna
   inspection: Assigns:pesosEnMiBilletera
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: DeclaresComputationWithArity0:aumentarFortuna
