@@ -1,4 +1,4 @@
-Hagamos una pausa de tanta información para tomarnos unos mates :mate:. O mejor aún, ¡programemos los mates! :sweat:
+Hagamos una pausa de tanta información para tomarnos unos mates :mate:. O mejor aún, ¡programemos los mates! :sweat_smile:
 
  
 > Sabiendo que al cebar un mate la cantidad de agua del termo disminuye:
