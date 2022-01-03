@@ -1,22 +1,21 @@
 _Todo muy lindo hasta acá, pero ¿por qué se llaman variables si no varian?_ :face_with_raised_eyebrow:
 
-Bueno, es que en realidad sí pueden variar :sunglasses: . Veamos un ejemplo usando variables locales:
+Bueno, es que en realidad sí pueden variar :sunglasses::
 
 ```javascript
 // declaramos e inicializamos la variable para que valga 0...
 let diasSinAccidentesConVelocirraptores = 0
-
+// ... hacemos otras cosas...
 // ...y más adelante, la volvemos a asignar, actualizando su valor
 diasSinAccidentesConVelocirraptores = diasSinAccidentesConVelocirraptores + 1
-
 // ¡ahora vale 1!
 diasSinAccidentesConVelocirraptores
 ```
 
-Esto también podemos hacerlo con variables globales:
+Incluso podríamos modificar variables globales desde otros lugares:
 
 ```javascript
-// inicializamos la variable al inicio de nuestro programa
+// inicializamos la variable 
 let diasSinAccidentesConVelocirraptores = 0
 
 function pasarUnDiaNormal() {
