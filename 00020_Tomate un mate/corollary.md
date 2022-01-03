@@ -8,4 +8,4 @@ x *= y // equivalente a x = x * y
 x -= y // equivalente a x = x - y
 ```
 
-¿Te animás a modificar tu solución usando alguno de ellos?
+¿Te animás a mejorar tu solución usando alguno de ellos?
