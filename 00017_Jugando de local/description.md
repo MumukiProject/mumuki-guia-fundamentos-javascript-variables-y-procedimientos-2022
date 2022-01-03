@@ -1,4 +1,4 @@
-Hay veces que no queremos, o simplemente no tiene sentido, que nuestras variables sean referenciadas por todas las funciones. Por suerte, podemos declarar variables tanto directamente en el programa, como dentro de un `def`:
+Hay veces que no queremos, o simplemente no tiene sentido, que nuestras variables sean referenciadas por todas las funciones. Por suerte, podemos declarar variables tanto directamente en el programa, como dentro de una función:
 
 ```javascript
 function el_mas_largo_sin_espacios(un_string, otro_string) {
