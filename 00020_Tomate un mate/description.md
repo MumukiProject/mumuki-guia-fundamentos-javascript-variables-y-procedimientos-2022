@@ -8,7 +8,7 @@ x -= y // equivalente a x = x - y
 
 ¡Usalos cuando quieras! :wink:
 
-> Hagamos una pausa de tanta información para unos mates :mate:. O mejor aún, ¡programemos los mates! :sweat:
+> Hagamos una pausa de tanta información para tomarnos unos mates :mate:. O mejor aún, ¡programemos los mates! :sweat:
 > 
 > Sabiendo que al cebar un mate la cantidad de agua del termo disminuye:
 >
