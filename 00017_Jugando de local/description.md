@@ -17,7 +17,7 @@ function elMasLargoSinEspacios(unString, otroString) {
 Las variables inicializadas dentro de una función, conocidas como _variables locales_, no presentan mayor misterio. Sin embargo, hay que tener un particular cuidado :warning: ya que sólo se pueden utilizar dentro de la función en cuestión. Si quiero referenciarla desde otro lugar...
 
 ```javascript
-pregunta = "¿" + un_string_sin_espacios + "?"
+let pregunta = "¿" + unStringSinEspacios + "?"
 ```
 
 ...¡boom! ¡se romperá! :collision:
