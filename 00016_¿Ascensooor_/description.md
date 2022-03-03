@@ -6,7 +6,7 @@
 > ム ascensorSobrecargado(1)
 false
 > ム ascensorSobrecargado(100)
-frue
+true
 > ```
 >
 > Ah, y ¿cuál es el peso promedio de una persona? ¿Y la carga máxima? Para eso utilizaremos dos variables:
