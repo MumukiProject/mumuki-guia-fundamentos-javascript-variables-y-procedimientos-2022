@@ -4,9 +4,9 @@
 >
 > ```javascript
 > ム ascensorSobrecargado(1)
-False
+false
 > ム ascensorSobrecargado(100)
-True
+frue
 > ```
 >
 > Ah, y ¿cuál es el peso promedio de una persona? ¿Y la carga máxima? Para eso utilizaremos dos variables:
