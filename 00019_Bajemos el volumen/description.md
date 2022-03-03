@@ -1,11 +1,11 @@
 ¡Esta fue una lección intensa! Así que antes de terminar, veamos si todo se entendió. 
 
-> Mirá el siguiente programa con atención :eyes:...
+> Fijate en el siguiente programa...
 > 
 > ```javascript
 > let volumen = 40
 > 
-> function subirElVolumen(decibeles) {
+> function subirVolumen(decibeles) {
 > 	volumen += decibeles;
 > }
 >
