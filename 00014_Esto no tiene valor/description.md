@@ -15,4 +15,4 @@ Pero entonces, ¿qué pasa si intentás **referenciar** una variable que nunca d
 > }
 > ```
 >
-> Probala en la consola y fijate qué sucede.
+> Invocala en la consola y fijate qué sucede.
