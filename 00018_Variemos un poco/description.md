@@ -24,7 +24,7 @@ function pasarUnDiaNormal() {
 }
 ```
 
-> Probá en la consola, en orden, lo siguiente:
+> Probá en la consola las siguientes expresiones en orden:
 >
 > 1. `diasSinAccidentesConVelocirraptores`
 > 2. `pasarUnDiaNormal()`
