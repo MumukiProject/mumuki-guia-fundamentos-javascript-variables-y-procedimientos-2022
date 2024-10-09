@@ -15,3 +15,6 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
   inspection: Except:HasTooShortIdentifiers
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Not:Declares:pi
